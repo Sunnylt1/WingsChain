@@ -14,7 +14,7 @@ WingsChain Introduction
 
 ## :: What is WingsChain
 
-WingsChain grows out of bitcoin and ethereum technology and has adopted DPOS consensus algorithm for engergy saving and superior performance compared to POW etc. simliar algorithms. WingsChain not only supports WICC mastercoin value transfer but also supports Turing-Complete Smart Contract capability that enables token issuance and all sorts of value-driven activities. With WingsChain blockchain technology, ecosystem partners can build the most powerful and trustworthy guessing games, exchanges of digital assets like market pegged assets, user issued assets and many other applications and services only limited by imagination.
+WingsChain grows out of EVM technology and has adopted DPOS consensus algorithm for engergy saving and superior performance compared to POW etc. simliar algorithms. WingsChain not only supports WICC mastercoin value transfer but also supports Turing-Complete Smart Contract capability that enables token issuance and all sorts of value-driven activities. With WingsChain blockchain technology, ecosystem partners can build the most powerful and trustworthy guessing games, exchanges of digital assets like market pegged assets, user issued assets and many other applications and services only limited by imagination.
 
 ## :: Where is WingsChain heading
 
