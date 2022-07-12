@@ -6,7 +6,7 @@ Quick Resource Access
 
 ## :: Developer Documentation
 
-* [English version (英文版)](https://docs.wingschain.cc/en/latest) Under Construction
+* [English version (英文版)](https://docs.wingschain.cc/)
 * [Chinese version (中文版)](https://docs.wingschain.cc/zh_CN/latest) 正在建设中
 
 WingsChain Introduction
