@@ -1,7 +1,7 @@
 Quick Resource Access
 =====================================
 ## :: Download WingsChain ```coind```
-* [WingsChain coind Binary Releases](https://github.com/WingsChain/WingsChain/wiki/Download-WingsChain-Binary-Releases)
+* [WingsChain coind Binary Releases](https://github.com/wingschain/WingsChain)
 * Docker: ```docker pull wicc/wingscoind:3.2```
 
 ## :: Developer Documentation
